@@ -1,0 +1,463 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c62a841f-43de-461b-b38a-ec887a8fbf7e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../AppleOrangeTree/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AppleOrangeTree/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AppleOrangeTree/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AppleOrangeTree/AppleOrangeTree.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AppleOrangeTree/out/production/AppleOrangeTree/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AppleOrangeTree/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ArrayManipuation1/ArrayManipuation1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ArrayManipuation1/ArrayManipuation1.ipr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ArrayManipuation1/ArrayManipuation1.iws" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ArrayManipuation1/out/production/ArrayManipuation1/ArrayManipulation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ArrayManipuation1/out/production/ArrayManipuation1/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ArrayManipuation1/src/ArrayManipulation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ArrayManipuation1/src/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Birthdaycake/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Birthdaycake/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Birthdaycake/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Birthdaycake/Birthdaycake.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Birthdaycake/out/production/Birthdaycake/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Birthdaycake/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bonapetite/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bonapetite/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bonapetite/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bonapetite/Bonapetite.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bonapetite/out/production/Bonapetite/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bonapetite/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Collectionpractice/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Collectionpractice/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Collectionpractice/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Collectionpractice/Collectionpractice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Collectionpractice/out/production/Collectionpractice/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Collectionpractice/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Genericspractice/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Genericspractice/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Genericspractice/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Genericspractice/Genericspractice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Genericspractice/out/production/Genericspractice/Gen.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Genericspractice/out/production/Genericspractice/Solutions.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Genericspractice/src/Solutions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graph/GraphPractice/GraphPractice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graph/GraphPractice/GraphPractice.ipr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graph/GraphPractice/GraphPractice.iws" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graph/GraphPractice/out/production/GraphPractice/Graph.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graph/GraphPractice/out/production/GraphPractice/undirected.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graph/GraphPractice/src/Graph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graph/GraphPractice/src/undirected.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaInheritenceexcercise/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaInheritenceexcercise/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaInheritenceexcercise/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaInheritenceexcercise/JavaInheritenceexcercise.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaInheritenceexcercise/out/production/JavaInheritenceexcercise/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaInheritenceexcercise/out/production/JavaInheritenceexcercise/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaInheritenceexcercise/out/production/JavaInheritenceexcercise/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaInheritenceexcercise/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Laderboard/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Laderboard/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Laderboard/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Laderboard/Laderboard.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Laderboard/out/production/Laderboard/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Laderboard/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Linkedlistproblem24/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Linkedlistproblem24/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Linkedlistproblem24/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Linkedlistproblem24/Linkedlistproblem24.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Linkedlistproblem24/out/production/Linkedlistproblem24/Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Linkedlistproblem24/out/production/Linkedlistproblem24/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Linkedlistproblem24/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Maximumdifference/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Maximumdifference/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Maximumdifference/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Maximumdifference/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Maximumdifference/Maximumdifference.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Maximumdifference/out/production/Maximumdifference/Difference.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Maximumdifference/out/production/Maximumdifference/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Maximumdifference/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Minmax/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Minmax/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Minmax/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Minmax/Minmax.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Minmax/out/production/Minmax/minmax.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Minmax/src/minmax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PlusMinus/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PlusMinus/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PlusMinus/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PlusMinus/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PlusMinus/Solution.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PlusMinus/out/production/Solution/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PlusMinus/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../RotateArray/RotateArray.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../RotateArray/RotateArray.ipr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../RotateArray/RotateArray.iws" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../RotateArray/out/production/RotateArray/RArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../RotateArray/out/production/RotateArray/anotherarray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../RotateArray/src/RArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../RotateArray/src/anotherarray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SortedArray/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SortedArray/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SortedArray/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SortedArray/SortedArray.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SortedArray/out/production/SortedArray/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SortedArray/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SumofArray/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SumofArray/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SumofArray/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SumofArray/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SumofArray/out/production/sumofarray/Sumofarray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SumofArray/src/Sumofarray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SumofArray/sumofarray.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Testing/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Testing/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Testing/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Testing/Testing.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Testing/out/production/Testing/Solution$TestDataEmptyArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Testing/out/production/Testing/Solution$TestDataExactlyTwoDifferentMinimums.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Testing/out/production/Testing/Solution$TestDataUniqueValues.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Testing/out/production/Testing/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Testing/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Timeconversion/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Timeconversion/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Timeconversion/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Timeconversion/Timeconversion.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Timeconversion/out/production/Timeconversion/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Timeconversion/out/production/Timeconversion/timeconversion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Timeconversion/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Timeconversion/src/timeconversion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../beautifuldays/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../beautifuldays/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../beautifuldays/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../beautifuldays/beautifuldays.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../beautifuldays/out/production/beautifuldays/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../beautifuldays/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../biginteger/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../biginteger/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../biginteger/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../biginteger/biginteger.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../biginteger/out/production/biginteger/biginteger.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../biginteger/src/biginteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../binarynumbercount/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../binarynumbercount/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../binarynumbercount/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../binarynumbercount/binarynumbercount.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../binarynumbercount/out/production/binarynumbercount/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../binarynumbercount/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../catsandmouse/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../catsandmouse/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../catsandmouse/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../catsandmouse/catsandmouse.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../catsandmouse/out/production/catsandmouse/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../catsandmouse/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../circularRotation/circularRotation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../circularRotation/circularRotation.ipr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../circularRotation/circularRotation.iws" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../circularRotation/out/production/circularRotation/MainClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../circularRotation/src/MainClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../classvsinstances/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../classvsinstances/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../classvsinstances/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../classvsinstances/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../classvsinstances/classvsinstance.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../classvsinstances/out/production/classvsinstance/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../classvsinstances/src/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../countvallyes/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../countvallyes/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../countvallyes/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../countvallyes/countvallyes.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../countvallyes/out/production/countvallyes/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../countvallyes/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../datecalculation/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../datecalculation/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../datecalculation/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../datecalculation/datecalculation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../datecalculation/out/production/datecalculation/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../datecalculation/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day1/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day1/out/production/printinout/Hackaerday1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day1/printinout.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day1/src/Hackaerday1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../drawingbooks/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../drawingbooks/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../drawingbooks/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../drawingbooks/drawingbooks.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../drawingbooks/out/production/drawingbooks/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../drawingbooks/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../electronicshoping/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../electronicshoping/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../electronicshoping/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../electronicshoping/electronicshoping.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../electronicshoping/out/production/electronicshoping/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../electronicshoping/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../emailid/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../emailid/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../emailid/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../emailid/emailid.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../emailid/out/production/emailid/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../emailid/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exceptionhandling/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exceptionhandling/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exceptionhandling/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exceptionhandling/exceptionhandling.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exceptionhandling/out/production/exceptionhandling/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exceptionhandling/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../gameOrder/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../gameOrder/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../gameOrder/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../gameOrder/gameOrder.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../gameOrder/out/production/gameOrder/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../gameOrder/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../gradingstudent/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../gradingstudent/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../gradingstudent/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../gradingstudent/TwoDArray/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../gradingstudent/TwoDArray/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../gradingstudent/TwoDArray/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../gradingstudent/TwoDArray/TwoDArray.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../gradingstudent/TwoDArray/out/production/TwoDArray/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../gradingstudent/TwoDArray/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../gradingstudent/gradingstudent.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../gradingstudent/out/production/gradingstudent/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../gradingstudent/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../gradingstudent/untitled/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../gradingstudent/untitled/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../gradingstudent/untitled/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../gradingstudent/untitled/untitled.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../interfacedivisor/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../interfacedivisor/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../interfacedivisor/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../interfacedivisor/interfacedivisor.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../interfacedivisor/out/production/interfacedivisor/AdvancedArithmetic.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../interfacedivisor/out/production/interfacedivisor/Calculator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../interfacedivisor/out/production/interfacedivisor/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../interfacedivisor/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../linkedlist/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../linkedlist/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../linkedlist/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../linkedlist/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../linkedlist/linkedlist.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../linkedlist/out/production/linkedlist/Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../linkedlist/out/production/linkedlist/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../linkedlist/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../list2d/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../list2d/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../list2d/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../list2d/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../list2d/Solution.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../list2d/out/production/Solution/Result.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../list2d/out/production/Solution/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../list2d/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../magicsquare/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../magicsquare/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../magicsquare/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../magicsquare/magicsquare.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../magicsquare/out/production/magicsquare/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../magicsquare/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../matrix.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../migratorybird/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../migratorybird/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../migratorybird/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../migratorybird/migratorybird.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../migratorybird/out/production/migratorybird/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../migratorybird/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../multiplication/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../multiplication/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../multiplication/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../multiplication/multiplication.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../multiplication/out/production/multiplication/multiplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../multiplication/src/multiplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../oddevenindexprint/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../oddevenindexprint/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../oddevenindexprint/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../oddevenindexprint/oddevenindexprint.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../oddevenindexprint/out/production/oddevenindexprint/oddevencharacter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../oddevenindexprint/src/oddevencharacter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/BobAlice/compare.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pdfviewer/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pdfviewer/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pdfviewer/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pdfviewer/out/production/pdfviewer/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pdfviewer/pdfviewer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pdfviewer/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pickingnumbers/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pickingnumbers/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pickingnumbers/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pickingnumbers/out/production/pickingnumbers/Result.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pickingnumbers/out/production/pickingnumbers/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pickingnumbers/pickingnumbers.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pickingnumbers/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../practicemap/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../practicemap/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../practicemap/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../practicemap/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../practicemap/mappractice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../practicemap/out/production/mappractice/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../practicemap/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../primenumber/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../primenumber/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../primenumber/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../primenumber/out/production/primenumber/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../primenumber/primenumber.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../primenumber/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../printlinkedlist.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pushpoppalindrom/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pushpoppalindrom/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pushpoppalindrom/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pushpoppalindrom/out/production/pushpoppalindrom/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pushpoppalindrom/pushpoppalindrom.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pushpoppalindrom/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../recursion/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../recursion/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../recursion/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../recursion/out/production/recursion/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../recursion/recursion.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../recursion/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../recursionpractice/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../recursionpractice/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../recursionpractice/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../recursionpractice/Recursion.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../recursionpractice/Recursion.ipr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../recursionpractice/Recursion.iws" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../recursionpractice/out/production/Recursion/Recursion1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../recursionpractice/out/production/Recursion/recursion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../recursionpractice/out/production/recursionpractice/recursion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../recursionpractice/recursionpractice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../recursionpractice/src/Recursion1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../recursionpractice/src/recursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../reversestring/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../reversestring/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../reversestring/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../reversestring/out/production/reversestring/reverse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../reversestring/reversestring.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../reversestring/src/reverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sequenceequation/out/production/sequenceequation/SequenceEquation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sequenceequation/sequenceequation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sequenceequation/sequenceequation.ipr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sequenceequation/sequenceequation.iws" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sequenceequation/src/SequenceEquation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../shockcount/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../shockcount/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../shockcount/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../shockcount/out/production/shockcount/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../shockcount/shockcount.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../shockcount/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sparsearray/out/production/sparsearray/sparsearray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sparsearray/sparsearray.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sparsearray/sparsearray.ipr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sparsearray/sparsearray.iws" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sparsearray/src/sparsearray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../src/compare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../staircase/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../staircase/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../staircase/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../staircase/out/production/staircase/staircase.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../staircase/src/staircase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../staircase/staircase.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../treenotepadfile/Codeandalgorithm.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../trycatchexceptional/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../trycatchexceptional/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../trycatchexceptional/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../trycatchexceptional/out/production/trycatchexceptional/Calculator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../trycatchexceptional/out/production/trycatchexceptional/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../trycatchexceptional/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../trycatchexceptional/trycatchexceptional.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../utopiantree/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../utopiantree/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../utopiantree/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../utopiantree/out/production/utopiantree/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../utopiantree/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../utopiantree/utopiantree.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../weirednumber/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../weirednumber/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../weirednumber/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../weirednumber/out/production/weirednumber/weired.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../weirednumber/src/weired.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../weirednumber/weirednumber.iml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="643" />
+    <option name="y" value="16" />
+    <option name="width" value="749" />
+    <option name="height" value="786" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c62a841f-43de-461b-b38a-ec887a8fbf7e" name="Default Changelist" comment="" />
+      <created>1646112603700</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1646112603700</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+</project>
